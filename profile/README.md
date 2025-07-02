@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./profile/logo.png" alt="Organization Logo" width="150"/>
+</p>
 # PLI Lab @ NUS - Towards Next-Generation Programming Languages
 
 Welcome to our organization. We’re reimagining how humans communicate intent to machines.
