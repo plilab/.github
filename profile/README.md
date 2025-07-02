@@ -1,9 +1,11 @@
 <p align="center">
   <img src="./logo.png" alt="Organization Logo" width="150"/>
 </p>
-# PLI Lab @ NUS - Towards Next-Generation Programming Languages
 
-Welcome to our organization. We’re reimagining how humans communicate intent to machines.
+# PLI Lab @ NUS  
+# Towards Next-Generation Programming Languages
+
+Welcome to PLI Lab, an affilation to [NUS PLSE group](https://nus-plse.github.io). We’re reimagining how humans communicate intent to machines.
 
 ## Our Vision
 
@@ -30,7 +32,5 @@ The future we’re working toward may be distant. We might not see it fully real
 Join us as we build the foundation for the next era of software development.
 
 ---
-
-> *"Good code is not just correct. It is readable, elegant, and expressive of intent."*
 
 Contact: [michaeldadams.org](https://michaeldadams.org)
