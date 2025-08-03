@@ -30,6 +30,14 @@ The future we’re working toward may be distant. We might not see it fully real
 
 Join us as we build the foundation for the next era of software development.
 
+## Members
+
+| ![image](https://github.com/user-attachments/assets/9f1802da-a6fa-4c6e-a5a2-c28afb62a70d)
+| ----
+| Michael D. Adams (Assistant Professor and PLILab Head)
+| Webpage: https://michaeldadams.org
+| Office: COM3‐02‐47
+
 ---
 
 Contact: [michaeldadams.org](https://michaeldadams.org)
