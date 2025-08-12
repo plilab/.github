@@ -41,3 +41,6 @@ Join us as we build the foundation for the next era of software development.
 ---
 
 Contact: [michaeldadams.org](https://michaeldadams.org)
+
+## Onboarding
+If you are joining our lab, then send Prof. Adams your GitHub username, and he will add you to our lab's GitHub organization so you can access our lab's private repositories.  Once he adds you, started on your onboarding by following the instructions at <https://github.com/plilab/plilab/blob/master/onboarding.md> (in one of the private repositories).
