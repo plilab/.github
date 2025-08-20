@@ -42,7 +42,7 @@ If you are joining our lab, then send Prof. Adams your GitHub username, and he w
 | Webpage: https://michaeldadams.org
 | Office: COM3‐02‐47
 
-|  <img src="https://avatars.githubusercontent.com/u/46869871?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/54849126?v=4" width="200"/>
+|  <img src="https://avatars.githubusercontent.com/u/46869871" width="200" /> | <img src="https://avatars.githubusercontent.com/u/54849126" width="200"/>
 | ---- | ---- |
 | **Foo** Yong Qi (Instructor, Ph.D. student and Lab Member) | Brian **Cheong** Sze-Kai (Graduate Tutor, Ph.D. student and Lab Member)
 | Webpage: https://yongqi.foo/ | - |
