@@ -46,4 +46,4 @@ If you are joining our lab, then send Prof. Adams your GitHub username, and he w
 | ---- | ---- |
 | **Foo** Yong Qi (Instructor, Ph.D. student and Lab Member) | Brian **Cheong** Sze-Kai (Graduate Tutor, Ph.D. student and Lab Member)
 | Webpage: https://yongqi.foo/ | - |
-| Office: COM2-02-27 | - |
+| Office: COM2-02-27 | Office: COM2-B1-03 |
