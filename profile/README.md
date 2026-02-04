@@ -2,7 +2,7 @@
   <img src="./logo.png" alt="Organization Logo" width="150"/>
 </p>
 
-# Programming Langage Innovation Lab (PLILab) @ NUS — Towards Next-Generation Programming Languages
+# Programming Language Innovation Lab (PLILab) @ NUS — Towards Next-Generation Programming Languages
 
 Welcome to PLI Lab, an affilation to [NUS PLSE group](https://nus-plse.github.io). We’re reimagining how humans communicate intent to machines.
 
