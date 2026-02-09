@@ -42,8 +42,13 @@ If you are joining our lab, then send Prof. Adams your GitHub username, and he w
 | Webpage: https://michaeldadams.org
 | Office: COM3‐02‐47
 
-|  <img src="https://avatars.githubusercontent.com/u/46869871" width="200" /> | <img src="./brian-photo.jpg" width="200"/> | <img src="./brian-photo.jpg" width="200"/> 
-| ---- | ---- | ---- |
-| **Foo** Yong Qi (Instructor, Ph.D. student and Lab Member) | Brian **Cheong** Sze-Kai (Graduate Tutor, Ph.D. student and Lab Member) | Weili **Fu** (Post-Doc) 
+|  <img src="https://avatars.githubusercontent.com/u/46869871" width="200" /> | <img src="./brian-photo.jpg" width="200"/> 
+| <img src="./brian-photo.jpg" width="200"/> 
+| ---- | ---- |
+| ---- |
+| **Foo** Yong Qi (Instructor, Ph.D. student and Lab Member) | Brian **Cheong** Sze-Kai (Graduate Tutor, Ph.D. student and Lab Member) 
+| Weili **Fu** (Post-Doc) 
 | Webpage: https://yongqi.foo/ | - |
-| Office: COM2-02-27 | Office: COM2-B1-03 | Office: COM3-02-20
+| - |
+| Office: COM2-02-27 | Office: COM2-B1-03 
+| Office: COM3-02-20
